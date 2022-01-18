@@ -1,1 +1,1 @@
-crud api for post
+crud api for post along with image storage
